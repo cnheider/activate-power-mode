@@ -11,7 +11,7 @@
     "atom": ">=1.19.0 <2.0.0"
   },
   "dependencies": {
-    "atom-select-list": "^0.2.0",
+    "atom-select-list": "^0.8.1",
     "lodash.debounce": "^4.0.8",
     "lodash.random": "^3.1.5",
     "lodash.sample": "^4.2.1",
